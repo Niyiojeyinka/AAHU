@@ -1,0 +1,29 @@
+{
+  "name": "aahu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niyiojeyinka/AAHU.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niyiojeyinka/AAHU/issues"
+  },
+  "homepage": "https://github.com/Niyiojeyinka/AAHU#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  }
+}
